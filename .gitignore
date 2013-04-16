@@ -1,0 +1,8 @@
+*.gem
+.bundle
+tmp
+*.DS_Store
+.sass-cache/*
+*.orig
+node_modules
+*.scssc
