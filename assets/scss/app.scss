@@ -1,6 +1,7 @@
 // Global Foundation Settings
 @import "settings";
-@import "mixins";
+@import "compass/css3";
+
 
 // Comment out this import if you are customizing you imports below
 // @import "foundation";
@@ -45,6 +46,6 @@
 // @import "foundation/components/tooltips";
 // @import "foundation/components/dropdown";
 @import "base/reset";
+@import "base/ie";
 @import "base/fonts";
-@import "base/common";
 @import "base/common";

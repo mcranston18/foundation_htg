@@ -9,22 +9,3 @@
 //          url('../../fonts/proximanova-regular.ttf') format('truetype'),
 //          url('../../fonts/proximanova-regular-webfont.svg#dineng') format('svg');
 // }
-
-
-h1, h2, h2>span, h3, h4, h5, h6 {
-    font-family: "proxima-nova", arial, Sans-serif;
-    font-weight: 100;
-    -webkit-font-smoothing: antialiased;
-}
-
-body li, a, p, span, strong, small, figure, figcaption, label, input, textarea, button {
-    font-family: "proxima-nova", Sans-serif;
-    font-weight: normal;
-    -webkit-font-smoothing: antialiased;
-}
-
-.button, .active, .cta_instructions, .cta_instructions > span  {
-    font-family: "proxima-nova", Sans-serif;
-    font-weight: 700;
-    -webkit-font-smoothing: antialiased;
-}

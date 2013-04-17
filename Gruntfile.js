@@ -16,6 +16,8 @@ module.exports = function(grunt) {
         js: {
             src: [
                 'assets/js/lib/jquery.js',
+                'assets/js/lib/angular.min.js',
+                'assets/js/lib/angular-ui.min.js',
                 'assets/js/app/custom.js'
             ],
             dest: 'assets/js/app.js'
