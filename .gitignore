@@ -7,3 +7,4 @@ tmp
 *.orig
 node_modules
 *.scssc
+index.html
