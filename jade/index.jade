@@ -1,0 +1,18 @@
+!!! 5
+//if IE 8
+    html(class="no-js lt-ie9", lang="en")
+// [if gt IE 8] <!
+html(class="no-js", lang="en")
+    // <![endif]
+    head
+        meta(charset="utf-8")
+        meta(name="viewport", content="width=device-width")
+        title My title
+        link(rel="stylesheet", href="assets/css/app.css")
+        script(src="assets/js/lib/custom.modernizr.js")
+
+        body(ng-controller="mainCtrl")
+            header
+                h1(ng-show="testing") Let's start this thing.
+
+            script(src="assets/js/app.js")

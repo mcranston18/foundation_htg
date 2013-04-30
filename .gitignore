@@ -7,3 +7,6 @@ tmp
 *.orig
 node_modules
 *.scssc
+index.html
+assets/css/app.css
+assets/js/app.js
