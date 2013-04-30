@@ -1,4 +1,4 @@
-Foundation-Zurb - Custom Build with Grunt, Compass, SASS
+Foundation-Zurb - Custom Build with Grunt, Compass, SASS, Angular
 ==============
 
 ### Dependencies
